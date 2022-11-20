@@ -1,0 +1,40 @@
+<kml>
+  <Document>
+    <Folder>
+      <name>Coverage by RSRP Level (DL) - September 2021</name>
+      <description/>
+      <Style>
+        <ListStyle>
+          <listItemType>check</listItemType>
+        </ListStyle>
+      </Style>
+      <GroundOverlay>
+        <name>Coverage by RSRP Level (DL) - September 2021</name>
+        <description/>
+        <Region>
+          <LatLonAltBox>
+            <north>-25.7052199161557</north>
+            <south>-27.3495486599345</south>
+            <east>32.1452115537545</east>
+            <west>30.8167105378885</west>
+            <altitudeMode>relativeToGround</altitudeMode>
+          </LatLonAltBox>
+          <Lod/>
+        </Region>
+        <color>7fffffff</color>
+        <Icon>
+          <href>overlays/prediction00.png</href>
+          <viewBoundScale>0.8</viewBoundScale>
+        </Icon>
+        <altitudeMode>clampToGround</altitudeMode>
+        <LatLonBox>
+          <north>-25.7052199161557</north>
+          <south>-27.3495486599345</south>
+          <east>32.1452115537545</east>
+          <west>30.8167105378885</west>
+          <rotation>0</rotation>
+        </LatLonBox>
+      </GroundOverlay>
+    </Folder>
+  </Document>
+</kml>
